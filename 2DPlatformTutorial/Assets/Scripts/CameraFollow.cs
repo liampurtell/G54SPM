@@ -6,6 +6,7 @@ public class CameraFollow : MonoBehaviour {
 
     public Transform player;
     public Vector3 offset;
+    public float lastY = 0;
 
 	// Use this for initialization
 	void Start () {
@@ -16,6 +17,14 @@ public class CameraFollow : MonoBehaviour {
 	void Update () {
         Vector3 position = transform.position;
         position.y = (player.position + offset).y;
-        transform.position = position;
-	}
+
+        if (position.y - lastY > 0)
+        {
+            
+            transform.position = position;
+            lastY = position.y;
+        }
+
+        
+    }
 }
