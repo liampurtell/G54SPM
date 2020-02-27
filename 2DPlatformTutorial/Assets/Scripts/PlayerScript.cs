@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -66,6 +67,13 @@ public class PlayerScript : MonoBehaviour {
 
     void OnCollisionEnter2D(Collision2D collision)
     {
+        SoundManagerScript.PlaySound("jump_07");
         rigidbodyComponent.velocity = new Vector2(rigidbodyComponent.velocity.x, 10);
     }
+    void onBecameInvisible()
+
+    {
+
+    }
+
 }
