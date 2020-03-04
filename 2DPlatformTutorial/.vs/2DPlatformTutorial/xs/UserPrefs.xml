@@ -1,14 +1,17 @@
 ﻿<Properties StartupConfiguration="{E40AE2EE-6C54-6629-0C40-986D6F907E58}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MainMenu.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/VolumeValueChange.cs">
     <Files>
-      <File FileName="Assets/MainMenu.cs" Line="7" Column="1" />
+      <File FileName="Assets/MainMenu.cs" Line="17" Column="6" />
+      <File FileName="Assets/Scripts/VolumeValueChange.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="2DPlatformTutorial" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="MainMenu.cs" selected="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="VolumeValueChange.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

@@ -70,6 +70,7 @@
     <Compile Include="Assets\Scripts\PlatformBehaviour.cs" />
     <Compile Include="Assets\Scripts\PlayerScript.cs" />
     <Compile Include="Assets\Scripts\TrophyObtained.cs" />
+    <Compile Include="Assets\Scripts\VolumeValueChange.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/maple/SPM-Project/project/G54SPM/2DPlatformTutorial/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
