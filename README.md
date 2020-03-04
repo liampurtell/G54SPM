@@ -20,7 +20,7 @@ Shuo Wang - Shaper + Teamworker
 
 Liam Hewer - Plant + Finisher
 
-Jason Huang - Resource Investigator + Teamworker
+Jason Huang -
 
 ## The Meetings
 
