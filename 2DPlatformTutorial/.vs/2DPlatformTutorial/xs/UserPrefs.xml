@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E40AE2EE-6C54-6629-0C40-986D6F907E58}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PauseMenu.cs">
+    <Files>
+      <File FileName="Assets/MainMenu.cs" Line="17" Column="6" />
+      <File FileName="Assets/Scripts/VolumeValueChange.cs" Line="22" Column="21" />
+      <File FileName="Assets/Scripts/PauseMenu.cs" Line="11" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2DPlatformTutorial" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PauseMenu.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fd6fb8cd-893f-4a4c-8f3a-9c78fdce0550" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
