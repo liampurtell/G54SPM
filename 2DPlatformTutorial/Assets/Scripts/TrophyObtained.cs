@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class TrophyObtained : MonoBehaviour
 {
-
+    //public GameObject thePlayer;
     // Use this for initialization
     void Start()
     {
@@ -16,6 +16,7 @@ public class TrophyObtained : MonoBehaviour
     void OnCollisionEnter2D(Collision2D col)
     {
         SceneManager.LoadScene("Level 2");
+        //SceneManager.MoveGameObjectToScene(thePlayer.GameObject, sceneToLoad);
     }
 
 }

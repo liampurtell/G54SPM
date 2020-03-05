@@ -22,7 +22,7 @@ public class CameraFollow : MonoBehaviour {
         {
             
             transform.position = position;
-            lastY = position.y;
+            //lastY = position.y;
         }
 
         

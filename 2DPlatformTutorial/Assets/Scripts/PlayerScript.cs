@@ -71,10 +71,11 @@ public class PlayerScript : MonoBehaviour {
         SoundManagerScript.PlaySound("jump_07");
         rigidbodyComponent.velocity = new Vector2(rigidbodyComponent.velocity.x, 10);
     }
+
     void onBecameInvisible()
 
     {
-        SceneManager.LoadScene("DeathScreen");
+        SceneManager.LoadScene("SampleScene");
     }
 
 }
